@@ -1,1 +1,1 @@
-This Is the Camelot, The Lineageos Pdf Viewer.
+This Is the Camelot, The LineageOS Pdf Viewer.
